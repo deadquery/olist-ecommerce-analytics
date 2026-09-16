@@ -193,11 +193,10 @@ Power Query использовался для подготовки данных 
 
 ---
 
-## Project Structure
-
-```text
-Olist-Ecommerce-Analytics/
+olist-ecommerce-analytics/
 │
 ├── README.md
 ├── analysis.sql
-└── dashboard.png
+├── dashboard.png
+├── Olist_Ecommerce_Analytics.pbix
+└── .gitattributes
