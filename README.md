@@ -193,6 +193,9 @@ Power Query использовался для подготовки данных 
 
 ---
 
+## Project Structure
+
+```text
 olist-ecommerce-analytics/
 │
 ├── README.md
